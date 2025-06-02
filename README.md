@@ -1,6 +1,8 @@
 # neuro-emotion-classifier
 USD MS AAI - 510 Machine Learning - Final Project
+
 EEG human emotion classifier
+
 -Uses EEG brain-machine interface data as input to predict human emotions (negative, neutral, positive)
 
 Group 5: Dheemanth Rajakumar, Puja Nandini and Darin Verduzco
