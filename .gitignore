@@ -1,3 +1,5 @@
 *.zip
 *.csv
 *.xlsx
+/.ipynb_checkpoints
+LSTM Regression Assignment-edited.ipynb
